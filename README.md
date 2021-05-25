@@ -1,2 +1,2 @@
 # MyFilms
-##SwiftUI implementation of MyFilms list app
+## SwiftUI implementation of MyFilms list app
